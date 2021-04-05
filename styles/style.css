@@ -240,7 +240,7 @@ a:hover {
   z-index: 1;
 }
 
-.section-title {
+.section-title_theme_dark {
   padding-top: 90px;
   width: 60%;
   text-align: center;
@@ -249,7 +249,7 @@ a:hover {
   font-weight: bold;
 }
 
-.section-subtitle {
+.section-subtitle_theme_dark {
   margin-top: 20px;
   width: 60%;
   text-align: center;
@@ -258,20 +258,20 @@ a:hover {
   font-weight: normal;
 }
 
-.table__heading {
+.table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 
-.table__text {
+.table__text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
 }
 
-.table {
+.table_theme_dark {
   width: 1100px;
   margin: auto;
   display: flex;
@@ -286,7 +286,7 @@ a:hover {
   color: #fff;
   margin-right: 0;
   margin-top: 80px;
-  }
+}
 
 .kaufman__triangle {
   width: 877px;
