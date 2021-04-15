@@ -1,0 +1,12 @@
+.video__iframes {
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 1050px;
+  transform: translate(0px,120px);
+}
+
+.iframe {
+  overflow: visible;
+}
