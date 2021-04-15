@@ -28,24 +28,18 @@
 }
 
 .cards__title {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
   text-align: center;
   margin-top: 43px;
   margin-bottom: 16px;
 }
 
 .cards__description {
-text-align: center;
-padding-bottom: 60px;
-}
-
-.cards__title {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.cards__description {
   line-height: 23px;
   font-size: 18px;
   font-weight: normal;
+  text-align: center;
+  padding-bottom: 60px;
 }
