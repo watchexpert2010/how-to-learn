@@ -10,44 +10,5 @@
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: 867px 637px;
-}
-
-.feynman__title {
-  width: 648px;
-  text-align: center;
-  z-index: 1;
-  margin: 0;
-  padding: 0;
-  line-height: 1.15;
-  font-size: 120px;
-  font-weight: bold;
-}
-
-.feynman__subtitle {
-  display: block;
-  margin-top: 70px;
-  z-index: 1;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  margin-bottom: 0;
-}
-
-.feynman__link {
-  position: absolute;
-  top: 50%;
-  right: 48px;
-  z-index: 1;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  color: #2f80ed;
-  text-decoration: none;
-  opacity: 1;
-}
-
-.feynman__link:hover {
-  color: #75bbfd;
-  opacity: .5;
-  transition: 2s;
+  padding-top: 80px;
 }
