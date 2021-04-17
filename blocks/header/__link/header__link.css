@@ -3,3 +3,9 @@
   color: #2f80ed;
   opacity: 1;
 }
+
+.header__link:hover {
+  color: #75bbfd;
+  opacity: .5;
+  transition: 2s;
+}

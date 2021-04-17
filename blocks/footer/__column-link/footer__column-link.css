@@ -6,3 +6,9 @@
   color: #fff;
   opacity: 1;
 }
+
+.footer__column-link:hover {
+  color: #75bbfd;
+  opacity: .5;
+  transition: 2s;
+}
